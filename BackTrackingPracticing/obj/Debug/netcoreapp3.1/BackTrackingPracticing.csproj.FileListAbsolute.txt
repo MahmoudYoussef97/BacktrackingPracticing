@@ -1,0 +1,12 @@
+D:\Technical\repos\BackTrackingPracticing\BackTrackingPracticing\bin\Debug\netcoreapp3.1\BackTrackingPracticing.exe
+D:\Technical\repos\BackTrackingPracticing\BackTrackingPracticing\bin\Debug\netcoreapp3.1\BackTrackingPracticing.deps.json
+D:\Technical\repos\BackTrackingPracticing\BackTrackingPracticing\bin\Debug\netcoreapp3.1\BackTrackingPracticing.runtimeconfig.json
+D:\Technical\repos\BackTrackingPracticing\BackTrackingPracticing\bin\Debug\netcoreapp3.1\BackTrackingPracticing.runtimeconfig.dev.json
+D:\Technical\repos\BackTrackingPracticing\BackTrackingPracticing\bin\Debug\netcoreapp3.1\BackTrackingPracticing.dll
+D:\Technical\repos\BackTrackingPracticing\BackTrackingPracticing\bin\Debug\netcoreapp3.1\BackTrackingPracticing.pdb
+D:\Technical\repos\BackTrackingPracticing\BackTrackingPracticing\obj\Debug\netcoreapp3.1\BackTrackingPracticing.csprojAssemblyReference.cache
+D:\Technical\repos\BackTrackingPracticing\BackTrackingPracticing\obj\Debug\netcoreapp3.1\BackTrackingPracticing.AssemblyInfoInputs.cache
+D:\Technical\repos\BackTrackingPracticing\BackTrackingPracticing\obj\Debug\netcoreapp3.1\BackTrackingPracticing.AssemblyInfo.cs
+D:\Technical\repos\BackTrackingPracticing\BackTrackingPracticing\obj\Debug\netcoreapp3.1\BackTrackingPracticing.dll
+D:\Technical\repos\BackTrackingPracticing\BackTrackingPracticing\obj\Debug\netcoreapp3.1\BackTrackingPracticing.pdb
+D:\Technical\repos\BackTrackingPracticing\BackTrackingPracticing\obj\Debug\netcoreapp3.1\BackTrackingPracticing.genruntimeconfig.cache
